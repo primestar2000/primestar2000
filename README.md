@@ -64,28 +64,6 @@
 
 <div align="center">
 
-```javascript
-const stephen = {
-    code: ["JavaScript", "PHP", "TypeScript"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "React Native"],
-            css: ["Tailwind CSS"]
-        },
-        backEnd: {
-            php: ["Laravel"],
-            js: ["NestJS"],
-            misc: ["Firebase"]
-        },
-        mobile: ["React Native", "Expo Router"],
-        iot: ["ESP8266", "Arduino"],
-        stateManagement: ["Redux", "React Query"],
-    },
-    currentFocus: "Building scalable applications that solve real-world problems",
-    funFact: "I turn coffee into code ☕️"
-};
-```
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
